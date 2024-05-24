@@ -8,6 +8,6 @@
  *Increase the font size of a text
 
 ## SCREENSHOT OF APP
-![Screenshot of final app page](rn-assignment2-11175301\image\app_image.png)
+![Screenshot of final app page]("image\app_image.png")
 
 ## ID: 11175301
